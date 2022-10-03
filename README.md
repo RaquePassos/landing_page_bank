@@ -1,4 +1,4 @@
-# Landing PAge Bank:
+# Landing Page Bank:
 
 ## 📌Tecnologias utilizadas:
 ### HTML
